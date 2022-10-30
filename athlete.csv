@@ -1,216 +1,460 @@
-,0,1,2,3,4,5,6
-0,25m Freestyle,Short Course (25m),31.89,-,15 Mar 2008,Raszyn,BUKS Warszawa
-1,50m Freestyle,Long Course (50m),27.64,432,19 Jul 2017,Warsaw,BUKS Warszawa
-2,50m Freestyle,Long Course (50m),28.25,405,12 May 2018,Warsaw,BUKS Warszawa
-3,50m Freestyle,Long Course (50m),28.39,399,11 Mar 2018,Lublin,BUKS Warszawa
-4,50m Freestyle,Long Course (50m),28.46,396,27 May 2017,Olsztyn,BUKS Warszawa
-5,50m Freestyle,Long Course (50m),28.91,378,23 Jun 2017,Warsaw,BUKS Warszawa
-6,50m Freestyle,Long Course (50m),29.07,372,18 Mar 2017,Warsaw,BUKS Warszawa
-7,50m Freestyle,Long Course (50m),29.34,361,10 Jul 2015,Debica,BUKS Warszawa
-8,50m Freestyle,Long Course (50m),30.10,335,5 Jun 2014,Olsztyn,BUKS Warszawa
-9,50m Freestyle,Long Course (50m),32.58,264,2 Oct 2021,Warsaw,BUKS Warszawa
-10,50m Freestyle,Long Course (50m),37.64,171,3 Jun 2011,Warsaw,BUKS Warszawa
-11,50m Freestyle,Short Course (25m),27.51,393,10 Mar 2017,Gorzow Wlkp,BUKS Warszawa
-12,50m Freestyle,Short Course (25m),27.70,385,25 Nov 2017,Poznan,BUKS Warszawa
-13,50m Freestyle,Short Course (25m),28.19,365,10 Dec 2016,Olsztyn,BUKS Warszawa
-14,50m Freestyle,Short Course (25m),30.36,292,31 Jan 2014,Debica,BUKS Warszawa
-15,50m Freestyle,Short Course (25m),32.65,235,12 Apr 2013,Warsaw,BUKS Warszawa
-16,50m Freestyle,Short Course (25m),32.83,231,13 Apr 2013,Gizycko,BUKS Warszawa
-17,50m Freestyle,Short Course (25m),34.67,196,9 Oct 2012,Warsaw,BUKS Warszawa
-18,50m Freestyle,Short Course (25m),45.48,87,21 Nov 2009,Konstancin,BUKS Warszawa
-19,50m Freestyle,Short Course (25m),47.82,74,1 Oct 2009,Piaseczno,BUKS Warszawa
-20,50m Freestyle,Short Course (25m),49.21,68,23 Mar 2009,Warsaw,BUKS Warszawa
-21,50m Freestyle,Short Course (25m),54.98,49,17 Jun 2009,Warsaw,BUKS Warszawa
-22,50m Freestyle,Short Course (25m),57.27,43,29 May 2009,Warsaw,BUKS Warszawa
-23,100m Freestyle,Long Course (50m),1:00.31,470,10 Mar 2018,Lublin,BUKS Warszawa
-24,100m Freestyle,Long Course (50m),1:01.32,447,13 May 2018,Warsaw,BUKS Warszawa
-25,100m Freestyle,Long Course (50m),1:01.92,434,28 May 2017,Olsztyn,BUKS Warszawa
-26,100m Freestyle,Long Course (50m),1:12.93,266,17 May 2013,Warsaw,BUKS Warszawa
-27,100m Freestyle,Long Course (50m),1:28.35,149,3 Jun 2011,Warsaw,BUKS Warszawa
-28,100m Freestyle,Short Course (25m),1:00.67,406,18 Dec 2015,Lublin,BUKS Warszawa
-29,100m Freestyle,Short Course (25m),1:01.22,395,6 Dec 2015,Lublin,BUKS Warszawa
-30,100m Freestyle,Short Course (25m),1:02.63,369,29 Nov 2015,Warsaw,BUKS Warszawa
-31,100m Freestyle,Short Course (25m),1:17.98,191,10 Oct 2012,Warsaw,BUKS Warszawa
-32,100m Freestyle,Short Course (25m),1:20.85,171,14 Dec 2011,Warsaw,BUKS Warszawa
-33,100m Freestyle,Short Course (25m),1:25.77,143,16 Mar 2011,Ozarow Mazowiecki,BUKS Warszawa
-34,100m Freestyle,Short Course (25m),1:27.30,136,15 Jun 2011,Ozarow Mazowiecki,BUKS Warszawa
-35,400m Freestyle,Long Course (50m),6:18.80,196,2 Dec 2011,Warsaw,BUKS Warszawa
-36,400m Freestyle,Short Course (25m),6:26.36,165,26 Nov 2011,Ciechanow,BUKS Warszawa
-37,800m Freestyle,Short Course (25m),12:46.80,193,26 Nov 2011,Ciechanow,BUKS Warszawa
-38,50m Backstroke,Long Course (50m),31.31,450,11 Mar 2018,Lublin,BUKS Warszawa
-39,50m Backstroke,Long Course (50m),31.35,448,20 Jul 2017,Warsaw,BUKS Warszawa
-40,50m Backstroke,Long Course (50m),31.47,443,12 May 2018,Warsaw,BUKS Warszawa
-41,50m Backstroke,Long Course (50m),31.91,425,18 Mar 2017,Warsaw,BUKS Warszawa
-42,50m Backstroke,Long Course (50m),32.26,411,28 May 2017,Olsztyn,BUKS Warszawa
-43,50m Backstroke,Long Course (50m),33.17,378,2 Oct 2021,Warsaw,BUKS Warszawa
-44,50m Backstroke,Long Course (50m),33.38,371,24 Jun 2017,Warsaw,BUKS Warszawa
-45,50m Backstroke,Long Course (50m),35.03,321,11 Jul 2015,Debica,BUKS Warszawa
-46,50m Backstroke,Long Course (50m),35.34,313,19 Jul 2014,Gliwice,BUKS Warszawa
-47,50m Backstroke,Long Course (50m),35.79,301,20 Jul 2016,Opole,BUKS Warszawa
-48,50m Backstroke,Long Course (50m),36.61,281,30 Nov 2013,Warsaw,BUKS Warszawa
-49,50m Backstroke,Long Course (50m),40.92,201,2 Jun 2012,Warsaw,BUKS Warszawa
-50,50m Backstroke,Long Course (50m),44.23,159,4 Jun 2011,Warsaw,BUKS Warszawa
-51,50m Backstroke,Short Course (25m),30.08,403,21 Oct 2017,Oswiecim,BUKS Warszawa
-52,50m Backstroke,Short Course (25m),30.18,399,25 Nov 2017,Poznan,BUKS Warszawa
-53,50m Backstroke,Short Course (25m),31.14,363,11 Mar 2017,Gorzow Wlkp,BUKS Warszawa
-54,50m Backstroke,Short Course (25m),31.58,348,18 Feb 2017,Kozienice,BUKS Warszawa
-55,50m Backstroke,Short Course (25m),32.01,334,11 Dec 2016,Olsztyn,BUKS Warszawa
-56,50m Backstroke,Short Course (25m),32.65,315,5 Dec 2015,Lublin,BUKS Warszawa
-57,50m Backstroke,Short Course (25m),32.72,313,12 May 2017,Warsaw,BUKS Warszawa
-58,50m Backstroke,Short Course (25m),33.03,304,21 Nov 2015,Poznan,BUKS Warszawa
-59,50m Backstroke,Short Course (25m),34.59,265,26 Apr 2014,Mlawa,BUKS Warszawa
-60,50m Backstroke,Short Course (25m),34.75,261,13 May 2015,Warsaw,BUKS Warszawa
-61,50m Backstroke,Short Course (25m),34.79,260,8 Mar 2014,Gliwice,BUKS Warszawa
-62,50m Backstroke,Short Course (25m),34.96,256,26 Apr 2014,Mlawa,BUKS Warszawa
-63,50m Backstroke,Short Course (25m),35.62,242,23 Nov 2013,Mlawa,BUKS Warszawa
-64,50m Backstroke,Short Course (25m),36.11,232,1 Feb 2014,Debica,BUKS Warszawa
-65,50m Backstroke,Short Course (25m),36.39,227,23 Nov 2013,Mlawa,BUKS Warszawa
-66,50m Backstroke,Short Course (25m),38.80,187,12 Apr 2013,Warsaw,BUKS Warszawa
-67,50m Backstroke,Short Course (25m),41.83,149,15 Oct 2011,Warsaw,BUKS Warszawa
-68,50m Backstroke,Short Course (25m),43.59,132,10 May 2011,Warsaw,BUKS Warszawa
-69,50m Backstroke,Short Course (25m),49.76,89,25 Sep 2010,Jozefow,BUKS Warszawa
-70,50m Backstroke,Short Course (25m),49.98,87,21 Nov 2009,Konstancin,BUKS Warszawa
-71,50m Backstroke,Short Course (25m),55.71,63,18 Oct 2008,Raszyn,BUKS Warszawa
-72,50m Backstroke,Short Course (25m),1:00.78,48,23 Mar 2009,Warsaw,BUKS Warszawa
-73,50m Backstroke,Short Course (25m),1:01.36,47,17 Jun 2009,Warsaw,BUKS Warszawa
-74,100m Backstroke,Long Course (50m),1:06.69,469,10 Mar 2018,Lublin,BUKS Warszawa
-75,100m Backstroke,Long Course (50m),1:07.83,446,21 Jul 2017,Warsaw,BUKS Warszawa
-76,100m Backstroke,Long Course (50m),1:08.54,432,19 Mar 2017,Warsaw,BUKS Warszawa
-77,100m Backstroke,Long Course (50m),1:08.67,430,13 May 2018,Warsaw,BUKS Warszawa
-78,100m Backstroke,Long Course (50m),1:09.19,420,10 Apr 2021,Warsaw,BUKS Warszawa
-79,100m Backstroke,Long Course (50m),1:09.78,410,27 May 2017,Olsztyn,BUKS Warszawa
-80,100m Backstroke,Long Course (50m),1:11.77,377,24 Jun 2017,Warsaw,BUKS Warszawa
-81,100m Backstroke,Long Course (50m),1:16.42,312,29 May 2015,Warsaw,BUKS Warszawa
-82,100m Backstroke,Long Course (50m),1:19.36,278,29 Nov 2013,Warsaw,BUKS Warszawa
-83,100m Backstroke,Long Course (50m),1:29.06,197,1 Jun 2012,Warsaw,BUKS Warszawa
-84,100m Backstroke,Long Course (50m),1:29.89,191,11 May 2012,Warsaw,BUKS Warszawa
-85,100m Backstroke,Long Course (50m),1:40.03,139,10 Dec 2010,Warsaw,BUKS Warszawa
-86,100m Backstroke,Short Course (25m),1:05.11,408,12 Mar 2017,Gorzow Wlkp,BUKS Warszawa
-87,100m Backstroke,Short Course (25m),1:05.41,403,25 Nov 2017,Poznan,BUKS Warszawa
-88,100m Backstroke,Short Course (25m),1:05.95,393,22 Oct 2017,Oswiecim,BUKS Warszawa
-89,100m Backstroke,Short Course (25m),1:06.88,377,18 Feb 2017,Kozienice,BUKS Warszawa
-90,100m Backstroke,Short Course (25m),1:08.00,359,11 May 2017,Warsaw,BUKS Warszawa
-91,100m Backstroke,Short Course (25m),1:08.67,348,10 Dec 2016,Olsztyn,BUKS Warszawa
-92,100m Backstroke,Short Course (25m),1:16.34,253,1 Feb 2014,Debica,BUKS Warszawa
-93,100m Backstroke,Short Course (25m),1:16.58,251,21 Dec 2013,Warsaw,BUKS Warszawa
-94,100m Backstroke,Short Course (25m),1:18.41,234,30 Mar 2014,Raciborz,BUKS Warszawa
-95,100m Backstroke,Short Course (25m),1:20.62,215,27 Apr 2014,Mlawa,BUKS Warszawa
-96,100m Backstroke,Short Course (25m),1:29.21,159,18 Dec 2011,Warsaw,BUKS Warszawa
-97,100m Backstroke,Short Course (25m),1:29.53,157,22 Mar 2012,Warsaw,BUKS Warszawa
-98,100m Backstroke,Short Course (25m),1:29.63,156,3 Mar 2012,Warsaw,BUKS Warszawa
-99,100m Backstroke,Short Course (25m),1:30.80,150,19 Nov 2011,Konstancin,BUKS Warszawa
-100,100m Backstroke,Short Course (25m),1:31.25,148,9 Nov 2011,Warsaw,BUKS Warszawa
-101,100m Backstroke,Short Course (25m),1:33.66,137,7 May 2011,Plonsk,BUKS Warszawa
-102,100m Backstroke,Short Course (25m),1:34.97,131,11 May 2011,Warsaw,BUKS Warszawa
-103,100m Backstroke,Short Course (25m),1:36.63,125,16 Mar 2011,Ozarow Mazowiecki,BUKS Warszawa
-104,100m Backstroke,Short Course (25m),1:42.42,105,20 Nov 2010,Konstancin Jeziorna,BUKS Warszawa
-105,100m Backstroke,Short Course (25m),1:46.70,92,1 Apr 2010,Warsaw,BUKS Warszawa
-106,100m Backstroke,Short Course (25m),1:56.45,71,10 Apr 2010,Konstancin,BUKS Warszawa
-107,200m Backstroke,Long Course (50m),3:10.97,201,1 Jun 2012,Warsaw,BUKS Warszawa
-108,200m Backstroke,Short Course (25m),3:08.10,177,21 Mar 2012,Warsaw,BUKS Warszawa
-109,200m Backstroke,Short Course (25m),3:08.61,175,16 Jun 2012,Ostrowiec Sw.,BUKS Warszawa
-110,200m Backstroke,Short Course (25m),3:22.82,141,14 Jun 2011,Ozarow Mazowiecki,BUKS Warszawa
-111,50m Breaststroke,Long Course (50m),34.39,429,30 Apr 2016,Szczecin,BUKS Warszawa
-112,50m Breaststroke,Long Course (50m),34.79,415,3 Jun 2016,Warsaw,BUKS Warszawa
-113,50m Breaststroke,Long Course (50m),34.91,410,29 May 2015,Warsaw,BUKS Warszawa
-114,50m Breaststroke,Long Course (50m),35.19,401,19 Jul 2016,Opole,BUKS Warszawa
-115,50m Breaststroke,Long Course (50m),35.47,391,18 Jul 2014,Gliwice,BUKS Warszawa
-116,50m Breaststroke,Long Course (50m),35.47,391,30 May 2014,Warsaw,BUKS Warszawa
-117,50m Breaststroke,Long Course (50m),36.29,365,10 Jul 2015,Debica,BUKS Warszawa
-118,50m Breaststroke,Long Course (50m),44.08,204,1 Jun 2012,Warsaw,BUKS Warszawa
-119,50m Breaststroke,Long Course (50m),48.22,155,3 Jun 2011,Warsaw,BUKS Warszawa
-120,50m Breaststroke,Long Course (50m),49.55,143,10 Dec 2010,Warsaw,BUKS Warszawa
-121,50m Breaststroke,Short Course (25m),32.56,466,11 Mar 2016,Lublin,BUKS Warszawa
-122,50m Breaststroke,Short Course (25m),32.94,450,5 Dec 2015,Lublin,BUKS Warszawa
-123,50m Breaststroke,Short Course (25m),33.40,432,22 Oct 2016,Krakow,BUKS Warszawa
-124,50m Breaststroke,Short Course (25m),33.43,430,19 Dec 2015,Lublin,BUKS Warszawa
-125,50m Breaststroke,Short Course (25m),33.82,416,30 Nov 2015,Warsaw,BUKS Warszawa
-126,50m Breaststroke,Short Course (25m),33.95,411,19 Nov 2016,Poznan,BUKS Warszawa
-127,50m Breaststroke,Short Course (25m),34.18,403,22 Nov 2015,Poznan,BUKS Warszawa
-128,50m Breaststroke,Short Course (25m),34.34,397,12 May 2015,Warsaw,BUKS Warszawa
-129,50m Breaststroke,Short Course (25m),34.37,396,28 Nov 2015,Warsaw,BUKS Warszawa
-130,50m Breaststroke,Short Course (25m),34.41,395,8 Oct 2015,Warsaw,BUKS Warszawa
-131,50m Breaststroke,Short Course (25m),34.65,386,20 Feb 2016,Kozienice,BUKS Warszawa
-132,50m Breaststroke,Short Course (25m),34.67,386,27 Sep 2014,Ciechanow,BUKS Warszawa
-133,50m Breaststroke,Short Course (25m),35.67,354,26 Apr 2014,Mlawa,BUKS Warszawa
-134,50m Breaststroke,Short Course (25m),35.68,354,26 Apr 2014,Mlawa,BUKS Warszawa
-135,50m Breaststroke,Short Course (25m),36.60,328,6 May 2014,Warsaw,BUKS Warszawa
-136,50m Breaststroke,Short Course (25m),36.78,323,7 Mar 2014,Gliwice,BUKS Warszawa
-137,50m Breaststroke,Short Course (25m),37.18,313,23 Nov 2013,Mlawa,BUKS Warszawa
-138,50m Breaststroke,Short Course (25m),37.27,310,18 Jan 2014,Ciechanow,BUKS Warszawa
-139,50m Breaststroke,Short Course (25m),37.27,310,21 Nov 2013,Ozarow Mazowiecki,BUKS Warszawa
-140,50m Breaststroke,Short Course (25m),37.55,304,13 Dec 2013,Ozarow Mazowiecki,BUKS Warszawa
-141,50m Breaststroke,Short Course (25m),37.68,300,9 Oct 2013,Ozarow Mazowiecki,BUKS Warszawa
-142,50m Breaststroke,Short Course (25m),37.72,299,23 Nov 2013,Mlawa,BUKS Warszawa
-143,50m Breaststroke,Short Course (25m),37.91,295,26 Oct 2013,Suwalki,BUKS Warszawa
-144,50m Breaststroke,Short Course (25m),38.00,293,31 Jan 2014,Debica,BUKS Warszawa
-145,50m Breaststroke,Short Course (25m),39.61,259,14 Apr 2013,Gizycko,BUKS Warszawa
-146,50m Breaststroke,Short Course (25m),40.49,242,22 May 2013,Warsaw,BUKS Warszawa
-147,50m Breaststroke,Short Course (25m),40.79,237,3 Oct 2012,Ozarow Mazowiecki,BUKS Warszawa
-148,50m Breaststroke,Short Course (25m),41.61,223,7 Dec 2012,Mazowiecki,BUKS Warszawa
-149,50m Breaststroke,Short Course (25m),41.85,219,8 Nov 2012,Ozarow Mazowiecki,BUKS Warszawa
-150,50m Breaststroke,Short Course (25m),42.13,215,9 Oct 2012,Warsaw,BUKS Warszawa
-151,50m Breaststroke,Short Course (25m),42.79,205,15 Oct 2011,Warsaw,BUKS Warszawa
-152,50m Breaststroke,Short Course (25m),49.64,131,25 Sep 2010,Jozefow,BUKS Warszawa
-153,50m Breaststroke,Short Course (25m),1:05.18,58,29 May 2009,Warsaw,BUKS Warszawa
-154,100m Breaststroke,Long Course (50m),1:15.86,421,20 Jul 2014,Gliwice,BUKS Warszawa
-155,100m Breaststroke,Long Course (50m),1:16.30,414,21 Jul 2016,Opole,BUKS Warszawa
-156,100m Breaststroke,Long Course (50m),1:16.62,409,1 May 2016,Szczecin,BUKS Warszawa
-157,100m Breaststroke,Long Course (50m),1:17.04,402,12 Jul 2015,Debica,BUKS Warszawa
-158,100m Breaststroke,Long Course (50m),1:17.11,401,30 May 2014,Warsaw,BUKS Warszawa
-159,100m Breaststroke,Long Course (50m),1:17.53,394,3 Jun 2016,Warsaw,BUKS Warszawa
-160,100m Breaststroke,Long Course (50m),1:17.59,393,29 May 2015,Warsaw,BUKS Warszawa
-161,100m Breaststroke,Long Course (50m),1:22.17,331,29 Nov 2013,Warsaw,BUKS Warszawa
-162,100m Breaststroke,Long Course (50m),1:27.79,271,26 Apr 2013,Warsaw,BUKS Warszawa
-163,100m Breaststroke,Long Course (50m),1:29.70,254,17 May 2013,Warsaw,BUKS Warszawa
-164,100m Breaststroke,Long Course (50m),1:34.80,216,11 May 2012,Warsaw,BUKS Warszawa
-165,100m Breaststroke,Long Course (50m),1:34.90,215,1 Jun 2012,Warsaw,BUKS Warszawa
-166,100m Breaststroke,Long Course (50m),1:34.95,214,22 Jun 2012,Warsaw,BUKS Warszawa
-167,100m Breaststroke,Long Course (50m),1:37.09,201,2 Dec 2011,Warsaw,BUKS Warszawa
-168,100m Breaststroke,Long Course (50m),1:52.29,129,10 Dec 2010,Warsaw,BUKS Warszawa
-169,100m Breaststroke,Short Course (25m),1:11.90,455,13 Mar 2016,Lublin,BUKS Warszawa
-170,100m Breaststroke,Short Course (25m),1:12.17,450,21 Nov 2015,Poznan,BUKS Warszawa
-171,100m Breaststroke,Short Course (25m),1:12.39,446,17 Dec 2015,Lublin,BUKS Warszawa
-172,100m Breaststroke,Short Course (25m),1:12.88,437,6 Dec 2015,Lublin,BUKS Warszawa
-173,100m Breaststroke,Short Course (25m),1:13.04,434,19 Nov 2016,Poznan,BUKS Warszawa
-174,100m Breaststroke,Short Course (25m),1:13.50,426,30 Nov 2015,Warsaw,BUKS Warszawa
-175,100m Breaststroke,Short Course (25m),1:13.71,423,23 Oct 2016,Krakow,BUKS Warszawa
-176,100m Breaststroke,Short Course (25m),1:14.14,415,29 Nov 2015,Warsaw,BUKS Warszawa
-177,100m Breaststroke,Short Course (25m),1:14.29,413,9 Oct 2015,Warsaw,BUKS Warszawa
-178,100m Breaststroke,Short Course (25m),1:14.70,406,13 May 2015,Warsaw,BUKS Warszawa
-179,100m Breaststroke,Short Course (25m),1:14.96,402,21 Feb 2016,Kozienice,BUKS Warszawa
-180,100m Breaststroke,Short Course (25m),1:16.53,378,27 Sep 2014,Ciechanow,BUKS Warszawa
-181,100m Breaststroke,Short Course (25m),1:16.56,377,27 Apr 2014,Mlawa,BUKS Warszawa
-182,100m Breaststroke,Short Course (25m),1:16.63,376,9 Mar 2014,Gliwice,BUKS Warszawa
-183,100m Breaststroke,Short Course (25m),1:17.26,367,7 May 2014,Warsaw,BUKS Warszawa
-184,100m Breaststroke,Short Course (25m),1:17.27,367,29 Mar 2014,Raciborz,BUKS Warszawa
-185,100m Breaststroke,Short Course (25m),1:20.79,321,27 Oct 2013,Suwalki,BUKS Warszawa
-186,100m Breaststroke,Short Course (25m),1:20.84,320,24 Nov 2013,Mlawa,BUKS Warszawa
-187,100m Breaststroke,Short Course (25m),1:21.10,317,18 Jan 2014,Ciechanow,BUKS Warszawa
-188,100m Breaststroke,Short Course (25m),1:21.17,316,21 Dec 2013,Warsaw,BUKS Warszawa
-189,100m Breaststroke,Short Course (25m),1:21.46,313,21 Nov 2013,Ozarow Mazowiecki,BUKS Warszawa
-190,100m Breaststroke,Short Course (25m),1:21.49,313,13 Dec 2013,Ozarow Mazowiecki,BUKS Warszawa
-191,100m Breaststroke,Short Course (25m),1:21.65,311,9 Oct 2013,Ozarow Mazowiecki,BUKS Warszawa
-192,100m Breaststroke,Short Course (25m),1:25.40,272,22 May 2013,Warsaw,BUKS Warszawa
-193,100m Breaststroke,Short Course (25m),1:26.29,263,13 Apr 2013,Gizycko,BUKS Warszawa
-194,100m Breaststroke,Short Course (25m),1:26.44,262,23 Feb 2013,Warsaw,BUKS Warszawa
-195,100m Breaststroke,Short Course (25m),1:29.63,235,16 Jun 2012,Ostrowiec Sw.,BUKS Warszawa
-196,100m Breaststroke,Short Course (25m),1:31.13,223,15 Dec 2012,Warsaw,BUKS Warszawa
-197,100m Breaststroke,Short Course (25m),1:31.72,219,3 Oct 2012,Ozarow Mazowiecki,BUKS Warszawa
-198,100m Breaststroke,Short Course (25m),1:31.80,219,25 Feb 2012,Warsaw,BUKS Warszawa
-199,100m Breaststroke,Short Course (25m),1:31.89,218,10 Oct 2012,Warsaw,BUKS Warszawa
-200,100m Breaststroke,Short Course (25m),1:32.06,217,3 Mar 2012,Warsaw,BUKS Warszawa
-201,100m Breaststroke,Short Course (25m),1:32.50,214,8 Nov 2012,Ozarow Mazowiecki,BUKS Warszawa
-202,100m Breaststroke,Short Course (25m),1:33.43,207,7 Dec 2012,Mazowiecki,BUKS Warszawa
-203,100m Breaststroke,Short Course (25m),1:33.50,207,26 Nov 2011,Ciechanow,BUKS Warszawa
-204,100m Breaststroke,Short Course (25m),1:34.81,198,21 Mar 2012,Warsaw,BUKS Warszawa
-205,100m Breaststroke,Short Course (25m),1:35.83,192,9 Nov 2011,Warsaw,BUKS Warszawa
-206,100m Breaststroke,Short Course (25m),1:36.20,190,19 Nov 2011,Konstancin,BUKS Warszawa
-207,100m Breaststroke,Short Course (25m),1:36.25,190,18 Dec 2011,Warsaw,BUKS Warszawa
-208,100m Breaststroke,Short Course (25m),1:41.49,162,11 May 2011,Warsaw,BUKS Warszawa
-209,100m Breaststroke,Short Course (25m),1:41.55,161,15 Mar 2011,Ozarow Mazowiecki,BUKS Warszawa
-210,100m Breaststroke,Short Course (25m),1:41.82,160,14 Jun 2011,Ozarow Mazowiecki,BUKS Warszawa
-211,100m Breaststroke,Short Course (25m),1:42.29,158,7 May 2011,Plonsk,0
-212,100m Breaststroke,Short Course (25m),1:50.14,126,27 May 2010,Ozarow Mazowiecki,0
-213,100m Breaststroke,Short Course (25m),1:50.40,125,20 Nov 2010,Konstancin Jeziorna,0
-214,100m Breaststroke,Short Course (25m),1:56.95,105,1 Apr 2010,Warsaw,0
+,last_name,first_name,birth_year,event,pool,time,points,date,city,club
+0,KRAWCZYK,Maja,2005,25m Freestyle,Short Course (25m),20.23,-,20 Jan 2013,Lomianki,BUKS Warszawa
+1,KRAWCZYK,Maja,2005,25m Freestyle,Short Course (25m),20.57,-,18 Nov 2012,Warsaw,BUKS Warszawa
+2,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),28.81,554,27 Feb 2021,Ostrowiec Swietokrzyski,UKP Polonia Warszawa
+3,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),29.46,518,31 May 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+4,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),29.56,513,15 May 2019,Olsztyn,UKS 48 Warszawa Srodmiescie
+5,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),29.57,512,6 Apr 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+6,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),29.67,507,23 Mar 2019,Lublin,BUKS Warszawa
+7,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),29.99,491,27 Apr 2019,Poznan,UKS 48 Warszawa Srodmiescie
+8,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),32.72,378,4 Dec 2016,Berlin (GER),BUKS Warszawa
+9,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),36.67,268,13 Jun 2015,Warsaw,BUKS Warszawa
+10,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),36.86,264,11 Apr 2015,Warsaw,BUKS Warszawa
+11,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),39.58,213,5 Apr 2014,Warsaw,BUKS Warszawa
+12,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),39.87,209,17 May 2014,Warsaw,BUKS Warszawa
+13,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),39.96,207,30 May 2014,Warsaw,BUKS Warszawa
+14,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),41.01,192,14 Jun 2014,Warsaw,BUKS Warszawa
+15,KRAWCZYK,Maja,2005,50m Freestyle,Long Course (50m),43.83,157,17 May 2013,Warsaw,BUKS Warszawa
+16,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),27.93,553,22 Oct 2022,Lodz,AZS AWF Warszawa
+17,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),28.21,537,9 Nov 2019,Lodz,UKP Polonia Warszawa
+18,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),28.43,524,7 Nov 2020,Lodz,UKP Polonia Warszawa
+19,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),28.44,524,16 Apr 2021,Warsaw,UKP Polonia Warszawa
+20,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),28.45,523,22 Nov 2020,Poznan,UKP Polonia Warszawa
+21,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),28.51,520,29 Feb 2020,Kozienice,UKP Polonia Warszawa
+22,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),29.00,494,17 Nov 2018,Mlawa,BUKS Warszawa
+23,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),29.08,490,24 Feb 2019,Kozienice,BUKS Warszawa
+24,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),29.19,484,15 Nov 2019,Pruszkow,UKP Polonia Warszawa
+25,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),29.26,481,17 Nov 2018,Mlawa,BUKS Warszawa
+26,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),29.47,471,28 Nov 2018,Ozarow Mazowiecki,BUKS Warszawa
+27,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),29.51,469,1 Mar 2018,Ozarow Mazowiecki,BUKS Warszawa
+28,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),29.68,461,21 Apr 2018,Mlawa,BUKS Warszawa
+29,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),30.08,442,21 Apr 2018,Mlawa,BUKS Warszawa
+30,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),30.94,407,10 Oct 2017,Warsaw,BUKS Warszawa
+31,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),31.92,370,1 Mar 2017,Warsaw,BUKS Warszawa
+32,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),32.06,365,17 Nov 2016,Warsaw,BUKS Warszawa
+33,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),32.23,360,20 Oct 2016,Warsaw,BUKS Warszawa
+34,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),32.25,359,18 Mar 2017,Raciborz,BUKS Warszawa
+35,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),32.46,352,15 May 2016,Warsaw,BUKS Warszawa
+36,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),32.84,340,22 Mar 2016,Warsaw,BUKS Warszawa
+37,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),33.56,318,14 May 2016,Warsaw,BUKS Warszawa
+38,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),34.04,305,8 Dec 2015,Warsaw,BUKS Warszawa
+39,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),34.45,294,8 Nov 2015,Gizycko,BUKS Warszawa
+40,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),34.48,294,25 May 2016,Lomianki,BUKS Warszawa
+41,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),35.22,275,23 May 2015,Ciechanow,BUKS Warszawa
+42,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),35.80,262,4 Mar 2015,Warsaw,BUKS Warszawa
+43,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),35.92,260,20 Dec 2014,Warsaw,BUKS Warszawa
+44,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),35.94,259,14 Jun 2015,Warsaw,BUKS Warszawa
+45,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),36.41,249,19 Nov 2014,Wolomin,BUKS Warszawa
+46,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),36.87,240,22 Apr 2015,Lomianki,BUKS Warszawa
+47,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),37.15,235,7 Feb 2015,Warsaw,BUKS Warszawa
+48,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),37.20,234,18 Oct 2014,Warsaw,BUKS Warszawa
+49,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),37.42,230,11 Oct 2014,Warsaw,BUKS Warszawa
+50,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),37.46,229,25 Oct 2014,Mlawa,BUKS Warszawa
+51,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),37.77,223,25 Oct 2014,Mlawa,BUKS Warszawa
+52,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),38.76,207,27 Sep 2014,Ciechanow,BUKS Warszawa
+53,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),38.96,203,4 Jun 2014,Wyszkow,BUKS Warszawa
+54,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),39.48,195,25 Mar 2014,Ozarow Mazowiecki,BUKS Warszawa
+55,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),39.78,191,13 Mar 2014,Warsaw,BUKS Warszawa
+56,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),39.97,188,15 Jun 2014,Warsaw,BUKS Warszawa
+57,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),40.41,182,12 Jan 2014,Legionowo,BUKS Warszawa
+58,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),40.78,177,26 Oct 2013,Warsaw,BUKS Warszawa
+59,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),40.79,177,26 Sep 2013,Wolomin,BUKS Warszawa
+60,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),41.18,172,8 Feb 2014,Warsaw,BUKS Warszawa
+61,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),41.19,172,5 Oct 2013,Jozefow,BUKS Warszawa
+62,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),41.46,169,21 Dec 2013,Warsaw,BUKS Warszawa
+63,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),43.31,148,27 Mar 2013,Warsaw,BUKS Warszawa
+64,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),44.37,138,24 May 2013,Warsaw,BUKS Warszawa
+65,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),45.36,129,9 Jun 2013,Warsaw,BUKS Warszawa
+66,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),47.54,112,27 Oct 2012,Warsaw,BUKS Warszawa
+67,KRAWCZYK,Maja,2005,50m Freestyle,Short Course (25m),1:03.12,47,18 May 2017,Warsaw,BUKS Warszawa
+68,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:02.54,565,3 Jun 2022,Lublin,UKP Polonia Warszawa
+69,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:02.73,560,26 Feb 2022,Ostrowiec Swietorzyski,UKP Polonia Warszawa
+70,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:02.78,558,28 Feb 2021,Ostrowiec Swietokrzyski,UKP Polonia Warszawa
+71,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:02.90,555,1 May 2021,Lublin,UKP Polonia Warszawa
+72,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:03.11,550,27 Mar 2021,Lublin,UKP Polonia Warszawa
+73,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:04.51,515,19 May 2018,Warsaw,BUKS Warszawa
+74,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:04.60,512,11 May 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+75,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:04.60,512,5 Sep 2020,Lublin,UKP Polonia Warszawa
+76,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:04.75,509,8 Jun 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+77,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:05.00,503,6 Apr 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+78,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:05.64,488,21 Jun 2018,Warsaw,BUKS Warszawa
+79,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:06.07,479,7 Apr 2018,Warsaw,BUKS Warszawa
+80,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:13.67,345,11 Dec 2016,Debica,BUKS Warszawa
+81,KRAWCZYK,Maja,2005,100m Freestyle,Long Course (50m),1:14.96,328,4 Dec 2016,Berlin (GER),BUKS Warszawa
+82,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:01.04,557,9 Nov 2019,Lodz,UKP Polonia Warszawa
+83,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:01.91,534,21 Nov 2020,Poznan,UKP Polonia Warszawa
+84,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:03.10,505,1 Mar 2020,Kozienice,UKP Polonia Warszawa
+85,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:03.11,504,17 Oct 2020,Wroclaw,UKP Polonia Warszawa
+86,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:03.17,503,23 Feb 2019,Kozienice,BUKS Warszawa
+87,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:03.24,501,18 Nov 2018,Mlawa,BUKS Warszawa
+88,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:03.25,501,2 Mar 2019,Warsaw,BUKS Warszawa
+89,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:03.27,500,15 Dec 2018,Warsaw,BUKS Warszawa
+90,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:05.08,460,16 Oct 2018,Warsaw,BUKS Warszawa
+91,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:05.12,459,10 Mar 2018,Warsaw,BUKS Warszawa
+92,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:05.74,446,29 Sep 2018,Ciechanow,BUKS Warszawa
+93,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:06.23,436,9 Dec 2017,Warsaw,BUKS Warszawa
+94,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:07.13,419,19 Nov 2017,Mlawa,BUKS Warszawa
+95,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:07.18,418,21 Oct 2017,Warsaw,BUKS Warszawa
+96,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:10.36,364,19 Mar 2017,Raciborz,BUKS Warszawa
+97,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:11.68,344,15 May 2016,Warsaw,BUKS Warszawa
+98,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:12.59,331,25 May 2016,Lomianki,BUKS Warszawa
+99,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:13.47,319,16 Apr 2016,Pultusk,BUKS Warszawa
+100,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:15.25,297,22 Dec 2015,Lublin,BUKS Warszawa
+101,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:17.23,275,30 Nov 2015,Warsaw,BUKS Warszawa
+102,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:18.37,263,8 Dec 2015,Warsaw,BUKS Warszawa
+103,KRAWCZYK,Maja,2005,100m Freestyle,Short Course (25m),1:22.99,221,15 Feb 2015,Kielce,BUKS Warszawa
+104,KRAWCZYK,Maja,2005,200m Freestyle,Long Course (50m),2:15.59,578,27 Feb 2021,Ostrowiec Swietokrzyski,UKP Polonia Warszawa
+105,KRAWCZYK,Maja,2005,200m Freestyle,Long Course (50m),2:15.67,577,28 Mar 2021,Lublin,UKP Polonia Warszawa
+106,KRAWCZYK,Maja,2005,200m Freestyle,Long Course (50m),2:19.60,530,16 May 2019,Olsztyn,UKS 48 Warszawa Srodmiescie
+107,KRAWCZYK,Maja,2005,200m Freestyle,Long Course (50m),2:20.21,523,27 Apr 2019,Poznan,UKS 48 Warszawa Srodmiescie
+108,KRAWCZYK,Maja,2005,200m Freestyle,Long Course (50m),2:23.51,487,1 Jun 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+109,KRAWCZYK,Maja,2005,200m Freestyle,Long Course (50m),2:31.07,418,3 Jun 2017,Warsaw,BUKS Warszawa
+110,KRAWCZYK,Maja,2005,200m Freestyle,Long Course (50m),2:33.56,398,27 May 2017,Olsztyn,BUKS Warszawa
+111,KRAWCZYK,Maja,2005,200m Freestyle,Short Course (25m),2:18.22,509,6 Oct 2020,Warsaw,UKP Polonia Warszawa
+112,KRAWCZYK,Maja,2005,200m Freestyle,Short Course (25m),2:22.25,467,10 Apr 2018,Warsaw,BUKS Warszawa
+113,KRAWCZYK,Maja,2005,200m Freestyle,Short Course (25m),2:23.64,454,18 Nov 2017,Mlawa,BUKS Warszawa
+114,KRAWCZYK,Maja,2005,200m Freestyle,Short Course (25m),2:25.49,437,14 Nov 2017,Warsaw,BUKS Warszawa
+115,KRAWCZYK,Maja,2005,200m Freestyle,Short Course (25m),2:41.49,319,24 May 2016,Lomianki,BUKS Warszawa
+116,KRAWCZYK,Maja,2005,400m Freestyle,Long Course (50m),4:53.11,525,23 Mar 2019,Lublin,BUKS Warszawa
+117,KRAWCZYK,Maja,2005,400m Freestyle,Short Course (25m),4:36.67,604,10 Oct 2021,Oswiecim,UKP Polonia Warszawa
+118,KRAWCZYK,Maja,2005,400m Freestyle,Short Course (25m),4:45.50,550,9 Jun 2018,Ostrowiec Sw,BUKS Warszawa
+119,KRAWCZYK,Maja,2005,400m Freestyle,Short Course (25m),4:45.84,548,15 Mar 2019,Pruszkow,BUKS Warszawa
+120,KRAWCZYK,Maja,2005,400m Freestyle,Short Course (25m),4:46.55,544,13 Nov 2020,Pruszkow,UKP Polonia Warszawa
+121,KRAWCZYK,Maja,2005,400m Freestyle,Short Course (25m),4:51.00,519,21 Mar 2018,Warsaw,BUKS Warszawa
+122,KRAWCZYK,Maja,2005,400m Freestyle,Short Course (25m),4:54.66,500,28 May 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+123,KRAWCZYK,Maja,2005,400m Freestyle,Short Course (25m),5:05.50,448,13 Jun 2017,Wyszkow,BUKS Warszawa
+124,KRAWCZYK,Maja,2005,400m Freestyle,Short Course (25m),5:08.40,436,25 Mar 2017,Plock,BUKS Warszawa
+125,KRAWCZYK,Maja,2005,400m Freestyle,Short Course (25m),5:08.91,434,18 May 2017,Warsaw,BUKS Warszawa
+126,KRAWCZYK,Maja,2005,400m Freestyle,Short Course (25m),5:29.13,359,28 Nov 2016,Raszyn,BUKS Warszawa
+127,KRAWCZYK,Maja,2005,25m Backstroke,Short Course (25m),21.71,-,20 Jan 2013,Lomianki,BUKS Warszawa
+128,KRAWCZYK,Maja,2005,25m Backstroke,Short Course (25m),24.71,-,14 Dec 2011,Warsaw,BUKS Warszawa
+129,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),31.41,633,17 Jul 2021,Warsaw,UKP Polonia Warszawa
+130,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),31.50,628,17 Jul 2021,Warsaw,UKP Polonia Warszawa
+131,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),31.64,620,11 Apr 2021,Warsaw,UKP Polonia Warszawa
+132,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),31.74,614,9 Apr 2022,Lublin,UKP Polonia Warszawa
+133,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),31.75,613,14 May 2022,Ostrowiec Swietokrzyski,SMS Warszawa Konwiktorska
+134,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),31.78,611,1 Jun 2022,Lublin,UKP Polonia Warszawa
+135,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),31.86,607,21 Jul 2022,Oswiecim,UKP Polonia Warszawa
+136,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),31.91,604,27 Mar 2021,Lublin,UKP Polonia Warszawa
+137,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),32.20,588,27 Feb 2022,Ostrowiec Swietorzyski,UKP Polonia Warszawa
+138,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),32.26,584,6 Jul 2019,Olsztyn,UKS 48 Warszawa Srodmiescie
+139,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),32.27,584,6 Jul 2019,Olsztyn,UKS 48 Warszawa Srodmiescie
+140,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),32.29,583,29 May 2021,Zielona Gora - Drzonkow,SMS Warszawa Konwiktorska
+141,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),32.38,578,5 Sep 2020,Lublin,UKP Polonia Warszawa
+142,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),32.49,572,6 Apr 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+143,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),32.51,571,23 Mar 2019,Lublin,BUKS Warszawa
+144,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),32.67,563,1 Jun 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+145,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),33.09,542,27 Apr 2019,Poznan,UKS 48 Warszawa Srodmiescie
+146,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),35.50,438,28 May 2017,Olsztyn,BUKS Warszawa
+147,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),35.88,425,3 Jun 2017,Warsaw,BUKS Warszawa
+148,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),36.07,418,10 Dec 2016,Debica,BUKS Warszawa
+149,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),40.97,285,13 Jun 2015,Warsaw,BUKS Warszawa
+150,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),41.31,278,11 Apr 2015,Warsaw,BUKS Warszawa
+151,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),43.26,242,17 May 2014,Warsaw,BUKS Warszawa
+152,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),43.53,238,5 Apr 2014,Warsaw,BUKS Warszawa
+153,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),43.77,234,14 Jun 2014,Warsaw,BUKS Warszawa
+154,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),45.84,203,31 May 2014,Warsaw,BUKS Warszawa
+155,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),46.30,197,17 May 2013,Warsaw,BUKS Warszawa
+156,KRAWCZYK,Maja,2005,50m Backstroke,Long Course (50m),46.81,191,26 Apr 2013,Warsaw,BUKS Warszawa
+157,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.37,598,22 Oct 2022,Lodz,AZS AWF Warszawa
+158,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.40,597,9 Oct 2021,Oswiecim,UKP Polonia Warszawa
+159,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.50,591,22 Nov 2020,Poznan,UKP Polonia Warszawa
+160,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.53,589,7 Dec 2019,Ostrowiec Sw,UKP Polonia Warszawa
+161,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.66,582,27 Nov 2020,Lublin,SMS Warszawa
+162,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.67,581,12 Dec 2020,Lodz,UKP Polonia Warszawa
+163,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.67,581,16 Apr 2021,Warsaw,UKP Polonia Warszawa
+164,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.70,579,17 Nov 2021,Raszyn,UKP Polonia Warszawa
+165,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.70,579,14 May 2021,Warsaw,UKP Polonia Warszawa
+166,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.70,579,11 Dec 2021,Gliwice,UKP Polonia Warszawa
+167,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.71,579,17 Dec 2021,Oswiecim,SMS Warszawa Konwiktorska
+168,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.75,577,27 Apr 2022,Warsaw,UKP Polonia Warszawa
+169,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.80,574,7 Nov 2020,Lodz,UKP Polonia Warszawa
+170,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.80,574,12 Nov 2021,Wroclaw,UKP Polonia Warszawa
+171,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.83,572,7 Dec 2019,Ostrowiec Sw,UKP Polonia Warszawa
+172,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),30.92,567,30 Nov 2019,Oswiecim,SMS Warszawa
+173,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.07,559,17 Oct 2020,Wroclaw,UKP Polonia Warszawa
+174,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.11,557,9 Nov 2019,Lodz,UKP Polonia Warszawa
+175,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.16,554,11 Dec 2021,Gliwice,UKP Polonia Warszawa
+176,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.19,552,15 Nov 2019,Pruszkow,UKP Polonia Warszawa
+177,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.20,552,12 Dec 2020,Lodz,UKP Polonia Warszawa
+178,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.39,542,19 Oct 2019,Poznan,UKP Polonia Warszawa
+179,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.43,540,7 Oct 2020,Warsaw,UKP Polonia Warszawa
+180,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.60,531,13 Nov 2020,Pruszkow,UKP Polonia Warszawa
+181,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.60,531,29 Feb 2020,Kozienice,UKP Polonia Warszawa
+182,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.61,531,29 May 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+183,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.66,528,15 Mar 2019,Pruszkow,BUKS Warszawa
+184,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),31.89,517,28 Nov 2018,Ozarow Mazowiecki,BUKS Warszawa
+185,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),32.04,510,21 Apr 2018,Mlawa,BUKS Warszawa
+186,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),32.06,509,6 Nov 2018,Warsaw,BUKS Warszawa
+187,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),32.22,501,17 Nov 2018,Mlawa,BUKS Warszawa
+188,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),32.24,500,24 Feb 2019,Kozienice,BUKS Warszawa
+189,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),32.28,498,17 Nov 2018,Mlawa,BUKS Warszawa
+190,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),32.41,492,10 Apr 2018,Warsaw,BUKS Warszawa
+191,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),32.42,492,21 Apr 2018,Mlawa,BUKS Warszawa
+192,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),33.44,448,18 Nov 2017,Mlawa,BUKS Warszawa
+193,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),33.49,446,18 Nov 2017,Mlawa,BUKS Warszawa
+194,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),33.56,443,14 Nov 2017,Warsaw,BUKS Warszawa
+195,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),33.99,427,18 May 2017,Warsaw,BUKS Warszawa
+196,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),34.66,402,19 May 2017,Warsaw,BUKS Warszawa
+197,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),35.24,383,18 Nov 2016,Warsaw,BUKS Warszawa
+198,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),35.41,377,22 Dec 2016,Lublin,BUKS Warszawa
+199,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),35.57,372,21 Oct 2016,Warsaw,BUKS Warszawa
+200,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),36.47,345,14 May 2016,Warsaw,BUKS Warszawa
+201,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),36.55,343,20 Apr 2016,Warsaw,BUKS Warszawa
+202,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),37.79,310,30 Nov 2015,Warsaw,BUKS Warszawa
+203,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),37.83,309,22 Dec 2015,Lublin,BUKS Warszawa
+204,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),37.97,306,9 Dec 2015,Warsaw,BUKS Warszawa
+205,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),37.99,305,30 Nov 2015,Warsaw,BUKS Warszawa
+206,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),38.30,298,9 Dec 2015,Warsaw,BUKS Warszawa
+207,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),38.33,297,23 Oct 2015,Warsaw,BUKS Warszawa
+208,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),38.82,286,7 Nov 2015,Gizycko,BUKS Warszawa
+209,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),39.18,278,24 May 2015,Ciechanow,BUKS Warszawa
+210,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),39.42,273,14 Jun 2015,Warsaw,BUKS Warszawa
+211,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),39.57,270,5 Mar 2015,Warsaw,BUKS Warszawa
+212,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),39.96,262,23 Apr 2015,Lomianki,BUKS Warszawa
+213,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),40.29,256,7 Feb 2015,Warsaw,BUKS Warszawa
+214,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),40.33,255,20 Dec 2014,Warsaw,BUKS Warszawa
+215,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),40.51,252,11 Oct 2014,Warsaw,BUKS Warszawa
+216,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),40.51,252,15 Feb 2015,Kielce,BUKS Warszawa
+217,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),40.75,247,25 Oct 2014,Mlawa,BUKS Warszawa
+218,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),41.07,242,19 Nov 2014,Wolomin,BUKS Warszawa
+219,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),41.22,239,14 Mar 2014,Warsaw,BUKS Warszawa
+220,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),41.27,238,15 Jun 2014,Warsaw,BUKS Warszawa
+221,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),41.64,232,25 Oct 2014,Mlawa,BUKS Warszawa
+222,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),41.72,231,14 Feb 2015,Kielce,BUKS Warszawa
+223,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),41.73,230,25 Mar 2014,Ozarow Mazowiecki,BUKS Warszawa
+224,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),41.82,229,8 Feb 2014,Warsaw,BUKS Warszawa
+225,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),41.85,228,18 Oct 2014,Warsaw,BUKS Warszawa
+226,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),41.88,228,27 Sep 2014,Ciechanow,BUKS Warszawa
+227,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),42.86,213,21 Dec 2013,Warsaw,BUKS Warszawa
+228,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),43.26,207,4 Jun 2014,Wyszkow,BUKS Warszawa
+229,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),43.46,204,26 Oct 2013,Warsaw,BUKS Warszawa
+230,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),43.54,203,12 Jan 2014,Legionowo,BUKS Warszawa
+231,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),43.85,198,26 Sep 2013,Wolomin,BUKS Warszawa
+232,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),44.26,193,5 Oct 2013,Jozefow,BUKS Warszawa
+233,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),46.59,165,24 May 2013,Warsaw,BUKS Warszawa
+234,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),47.95,152,15 Dec 2012,Warsaw,BUKS Warszawa
+235,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),48.06,151,9 Jun 2013,Warsaw,BUKS Warszawa
+236,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),48.72,145,13 Jan 2013,Legionowo,BUKS Warszawa
+237,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),48.97,142,27 Oct 2012,Warsaw,BUKS Warszawa
+238,KRAWCZYK,Maja,2005,50m Backstroke,Short Course (25m),48.97,142,27 Mar 2013,Warsaw,BUKS Warszawa
+239,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:06.96,635,14 May 2022,Ostrowiec Swietokrzyski,SMS Warszawa Konwiktorska
+240,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:07.24,627,14 May 2022,Ostrowiec Swietokrzyski,SMS Warszawa Konwiktorska
+241,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:07.37,624,18 Jul 2021,Warsaw,UKP Polonia Warszawa
+242,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:07.66,616,18 Jul 2021,Warsaw,UKP Polonia Warszawa
+243,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:07.82,611,18 Jul 2021,Warsaw,UKP Polonia Warszawa
+244,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:07.85,610,29 May 2021,Zielona Gora - Drzonkow,SMS Warszawa Konwiktorska
+245,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:07.98,607,22 Jul 2022,Oswiecim,UKP Polonia Warszawa
+246,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:08.17,602,10 Apr 2021,Warsaw,UKP Polonia Warszawa
+247,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:08.40,596,27 Mar 2021,Lublin,UKP Polonia Warszawa
+248,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:08.42,595,22 Jul 2022,Oswiecim,UKP Polonia Warszawa
+249,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:08.43,595,22 Jul 2022,Oswiecim,UKP Polonia Warszawa
+250,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:08.44,595,10 Apr 2022,Lublin,UKP Polonia Warszawa
+251,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:09.88,559,26 Feb 2022,Ostrowiec Swietorzyski,UKP Polonia Warszawa
+252,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:10.21,551,7 Jul 2019,Olsztyn,UKS 48 Warszawa Srodmiescie
+253,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:10.52,544,8 Jun 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+254,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:10.77,538,23 Mar 2019,Lublin,BUKS Warszawa
+255,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:10.79,537,5 Sep 2020,Lublin,UKP Polonia Warszawa
+256,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:11.41,523,19 May 2019,Olsztyn,UKS 48 Warszawa Srodmiescie
+257,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:11.49,522,19 May 2018,Warsaw,BUKS Warszawa
+258,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:11.88,513,7 Apr 2018,Warsaw,BUKS Warszawa
+259,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:12.03,510,21 Jun 2018,Warsaw,BUKS Warszawa
+260,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:12.57,499,7 Apr 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+261,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:13.11,488,6 Apr 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+262,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:16.41,427,13 May 2017,Warsaw,BUKS Warszawa
+263,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:17.18,415,10 Jun 2017,Warsaw,BUKS Warszawa
+264,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:17.75,405,27 May 2017,Olsztyn,BUKS Warszawa
+265,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:17.83,404,11 Mar 2017,Warsaw,BUKS Warszawa
+266,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:18.86,389,2 Jun 2017,Warsaw,BUKS Warszawa
+267,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:19.43,380,11 Dec 2016,Debica,BUKS Warszawa
+268,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:19.55,379,4 Dec 2016,Berlin (GER),BUKS Warszawa
+269,KRAWCZYK,Maja,2005,100m Backstroke,Long Course (50m),1:38.17,201,30 May 2014,Warsaw,BUKS Warszawa
+270,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:04.44,618,17 Dec 2021,Oswiecim,SMS Warszawa Konwiktorska
+271,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:05.54,587,26 Apr 2022,Warsaw,UKP Polonia Warszawa
+272,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:05.72,582,10 Oct 2021,Oswiecim,UKP Polonia Warszawa
+273,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:05.75,581,13 May 2021,Warsaw,UKP Polonia Warszawa
+274,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:05.83,579,16 Apr 2021,Warsaw,UKP Polonia Warszawa
+275,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.04,574,17 Nov 2021,Raszyn,UKP Polonia Warszawa
+276,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.17,570,27 Nov 2020,Lublin,SMS Warszawa
+277,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.18,570,7 Nov 2020,Lodz,UKP Polonia Warszawa
+278,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.24,569,11 Nov 2021,Wroclaw,UKP Polonia Warszawa
+279,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.27,568,12 Dec 2021,Gliwice,UKP Polonia Warszawa
+280,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.32,566,15 Nov 2019,Pruszkow,UKP Polonia Warszawa
+281,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.34,566,12 Dec 2021,Gliwice,UKP Polonia Warszawa
+282,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.34,566,13 Dec 2020,Lodz,UKP Polonia Warszawa
+283,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.37,565,30 Nov 2019,Oswiecim,SMS Warszawa
+284,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.43,564,9 Nov 2019,Lodz,UKP Polonia Warszawa
+285,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.52,561,21 Nov 2020,Poznan,UKP Polonia Warszawa
+286,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.59,560,16 Oct 2020,Wroclaw,UKP Polonia Warszawa
+287,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.59,560,19 Oct 2019,Poznan,UKP Polonia Warszawa
+288,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.81,554,8 Dec 2019,Ostrowiec Sw,UKP Polonia Warszawa
+289,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.84,553,8 Dec 2019,Ostrowiec Sw,UKP Polonia Warszawa
+290,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:06.85,553,8 Dec 2019,Ostrowiec Sw,UKP Polonia Warszawa
+291,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:07.05,548,13 Dec 2020,Lodz,UKP Polonia Warszawa
+292,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:07.11,547,12 Dec 2021,Gliwice,UKP Polonia Warszawa
+293,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:07.26,543,13 Dec 2020,Lodz,UKP Polonia Warszawa
+294,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:07.80,530,2 Mar 2019,Warsaw,BUKS Warszawa
+295,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:07.84,529,28 May 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+296,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:07.90,528,15 Dec 2018,Warsaw,BUKS Warszawa
+297,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:07.92,527,15 Nov 2019,Pruszkow,UKP Polonia Warszawa
+298,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:07.94,527,6 Oct 2020,Warsaw,UKP Polonia Warszawa
+299,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:08.30,519,22 Apr 2018,Mlawa,BUKS Warszawa
+300,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:08.32,518,6 Oct 2020,Warsaw,UKP Polonia Warszawa
+301,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:08.54,513,1 Mar 2020,Kozienice,UKP Polonia Warszawa
+302,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:08.80,507,6 Mar 2020,Warsaw,UKP Polonia Warszawa
+303,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:08.84,506,10 Jun 2018,Ostrowiec Sw,BUKS Warszawa
+304,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:09.29,497,18 Nov 2018,Mlawa,BUKS Warszawa
+305,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:09.31,496,23 Feb 2019,Kozienice,BUKS Warszawa
+306,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:09.44,493,22 Mar 2018,Warsaw,BUKS Warszawa
+307,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:09.61,490,28 Nov 2018,Ozarow Mazowiecki,BUKS Warszawa
+308,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:09.98,482,10 Mar 2018,Warsaw,BUKS Warszawa
+309,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:10.92,463,6 Nov 2018,Warsaw,BUKS Warszawa
+310,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:11.00,462,29 Sep 2018,Ciechanow,BUKS Warszawa
+311,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:11.43,453,1 Mar 2018,Ozarow Mazowiecki,BUKS Warszawa
+312,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:13.75,412,26 Mar 2017,Plock,BUKS Warszawa
+313,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:14.18,405,14 Jun 2017,Wyszkow,BUKS Warszawa
+314,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:14.77,395,19 May 2017,Warsaw,BUKS Warszawa
+315,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:14.92,393,31 May 2017,Warsaw,BUKS Warszawa
+316,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:16.05,375,19 Mar 2017,Raciborz,BUKS Warszawa
+317,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:16.39,370,19 Mar 2017,Raciborz,BUKS Warszawa
+318,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:16.59,368,4 Feb 2017,Warsaw,BUKS Warszawa
+319,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:16.78,365,17 Dec 2016,Warsaw,BUKS Warszawa
+320,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:17.90,349,17 Nov 2016,Warsaw,BUKS Warszawa
+321,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:18.52,341,20 Oct 2016,Warsaw,BUKS Warszawa
+322,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:18.59,340,20 Apr 2016,Warsaw,BUKS Warszawa
+323,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:18.92,336,24 May 2016,Lomianki,BUKS Warszawa
+324,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:23.46,284,9 Dec 2015,Warsaw,BUKS Warszawa
+325,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:24.79,271,30 Nov 2015,Warsaw,BUKS Warszawa
+326,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:25.07,268,23 Oct 2015,Warsaw,BUKS Warszawa
+327,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:26.03,259,8 Nov 2015,Gizycko,BUKS Warszawa
+328,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:26.27,257,23 Apr 2015,Lomianki,BUKS Warszawa
+329,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:26.64,254,5 Mar 2015,Warsaw,BUKS Warszawa
+330,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:27.99,242,14 Feb 2015,Kielce,BUKS Warszawa
+331,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:30.26,224,27 Sep 2014,Ciechanow,BUKS Warszawa
+332,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:33.63,201,10 Apr 2014,Warsaw,BUKS Warszawa
+333,KRAWCZYK,Maja,2005,100m Backstroke,Short Course (25m),1:35.70,188,14 Mar 2014,Warsaw,BUKS Warszawa
+334,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:24.78,618,20 Jul 2022,Oswiecim,UKP Polonia Warszawa
+335,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:25.16,613,13 May 2022,Ostrowiec Swietokrzyski,SMS Warszawa Konwiktorska
+336,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:26.25,599,28 May 2021,Zielona Gora - Drzonkow,SMS Warszawa Konwiktorska
+337,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:26.90,592,10 Apr 2021,Warsaw,UKP Polonia Warszawa
+338,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:27.04,590,20 Jul 2022,Oswiecim,UKP Polonia Warszawa
+339,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:28.79,569,16 Jul 2021,Warsaw,UKP Polonia Warszawa
+340,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:28.80,569,2 Jun 2022,Lublin,UKP Polonia Warszawa
+341,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:29.30,563,16 Jul 2021,Warsaw,UKP Polonia Warszawa
+342,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:29.58,560,2 Jun 2022,Lublin,UKP Polonia Warszawa
+343,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:31.24,542,26 Feb 2022,Ostrowiec Swietorzyski,UKP Polonia Warszawa
+344,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:31.82,536,5 Jul 2019,Olsztyn,UKS 48 Warszawa Srodmiescie
+345,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:32.82,525,31 May 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+346,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:33.70,516,5 Jul 2019,Olsztyn,UKS 48 Warszawa Srodmiescie
+347,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:34.08,513,5 Sep 2020,Lublin,UKP Polonia Warszawa
+348,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:36.13,493,17 May 2019,Olsztyn,UKS 48 Warszawa Srodmiescie
+349,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:36.32,491,27 Apr 2019,Poznan,UKS 48 Warszawa Srodmiescie
+350,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:39.50,462,6 Apr 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+351,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:46.77,404,3 Dec 2016,Berlin (GER),BUKS Warszawa
+352,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:48.49,392,2 Jun 2017,Warsaw,BUKS Warszawa
+353,KRAWCZYK,Maja,2005,200m Backstroke,Long Course (50m),2:50.85,376,10 Dec 2016,Debica,BUKS Warszawa
+354,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:19.84,615,9 Oct 2021,Oswiecim,UKP Polonia Warszawa
+355,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:20.69,604,10 Dec 2021,Gliwice,UKP Polonia Warszawa
+356,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:21.01,600,10 Dec 2021,Gliwice,UKP Polonia Warszawa
+357,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:22.64,579,14 May 2021,Warsaw,UKP Polonia Warszawa
+358,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:23.06,574,17 Nov 2021,Raszyn,UKP Polonia Warszawa
+359,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:23.33,571,16 Dec 2021,Oswiecim,SMS Warszawa Konwiktorska
+360,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:23.62,567,22 Oct 2022,Lodz,AZS AWF Warszawa
+361,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:23.90,564,29 Nov 2019,Oswiecim,SMS Warszawa
+362,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:24.49,557,21 Nov 2020,Poznan,UKP Polonia Warszawa
+363,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:25.90,541,26 Nov 2020,Lublin,SMS Warszawa
+364,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:26.03,540,7 Oct 2020,Warsaw,UKP Polonia Warszawa
+365,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:26.52,534,19 Oct 2019,Poznan,UKP Polonia Warszawa
+366,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:26.53,534,6 Dec 2019,Ostrowiec Sw,UKP Polonia Warszawa
+367,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:27.04,529,29 Feb 2020,Kozienice,UKP Polonia Warszawa
+368,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:27.09,528,29 May 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+369,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:27.25,527,10 Nov 2019,Lodz,UKP Polonia Warszawa
+370,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:27.72,521,13 Nov 2020,Pruszkow,UKP Polonia Warszawa
+371,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:27.84,520,6 Dec 2019,Ostrowiec Sw,UKP Polonia Warszawa
+372,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:27.93,519,15 Nov 2019,Pruszkow,UKP Polonia Warszawa
+373,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:28.17,517,9 Jun 2018,Ostrowiec Sw,BUKS Warszawa
+374,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:28.36,515,11 Dec 2020,Lodz,UKP Polonia Warszawa
+375,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:29.36,504,21 Mar 2018,Warsaw,BUKS Warszawa
+376,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:29.54,503,17 Nov 2018,Mlawa,BUKS Warszawa
+377,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:30.64,492,23 Feb 2019,Kozienice,BUKS Warszawa
+378,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:31.90,480,1 Mar 2018,Ozarow Mazowiecki,BUKS Warszawa
+379,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:35.31,449,16 Oct 2018,Warsaw,BUKS Warszawa
+380,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:37.37,431,13 Jun 2017,Wyszkow,BUKS Warszawa
+381,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:39.43,415,25 Mar 2017,Plock,BUKS Warszawa
+382,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:40.31,408,18 Mar 2017,Raciborz,BUKS Warszawa
+383,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:41.53,399,18 Mar 2017,Raciborz,BUKS Warszawa
+384,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:42.24,394,10 Oct 2017,Warsaw,BUKS Warszawa
+385,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:44.81,375,21 Oct 2016,Warsaw,BUKS Warszawa
+386,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:45.35,372,1 Mar 2017,Warsaw,BUKS Warszawa
+387,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:46.05,367,18 Nov 2016,Warsaw,BUKS Warszawa
+388,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:49.42,346,22 Mar 2016,Warsaw,BUKS Warszawa
+389,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:59.04,293,8 Dec 2015,Warsaw,BUKS Warszawa
+390,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),2:59.66,290,22 Oct 2015,Warsaw,BUKS Warszawa
+391,KRAWCZYK,Maja,2005,200m Backstroke,Short Course (25m),3:19.19,212,9 Apr 2014,Warsaw,BUKS Warszawa
+392,KRAWCZYK,Maja,2005,50m Breaststroke,Long Course (50m),53.97,161,30 May 2014,Warsaw,BUKS Warszawa
+393,KRAWCZYK,Maja,2005,50m Breaststroke,Long Course (50m),57.05,136,26 Apr 2013,Warsaw,BUKS Warszawa
+394,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),38.86,396,6 Mar 2020,Warsaw,UKP Polonia Warszawa
+395,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),39.12,389,13 Nov 2020,Pruszkow,UKP Polonia Warszawa
+396,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),47.73,214,4 Mar 2015,Warsaw,BUKS Warszawa
+397,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),48.52,203,22 Apr 2015,Lomianki,BUKS Warszawa
+398,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),49.63,190,19 Nov 2014,Wolomin,BUKS Warszawa
+399,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),49.80,188,23 May 2015,Ciechanow,BUKS Warszawa
+400,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),51.24,173,18 Oct 2014,Warsaw,BUKS Warszawa
+401,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),51.89,166,9 Apr 2014,Warsaw,BUKS Warszawa
+402,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),52.16,164,4 Jun 2014,Wyszkow,BUKS Warszawa
+403,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),58.78,114,13 Jan 2013,Legionowo,BUKS Warszawa
+404,KRAWCZYK,Maja,2005,50m Breaststroke,Short Course (25m),59.76,109,15 Dec 2012,Warsaw,BUKS Warszawa
+405,KRAWCZYK,Maja,2005,50m Butterfly,Long Course (50m),29.70,556,9 Apr 2022,Lublin,UKP Polonia Warszawa
+406,KRAWCZYK,Maja,2005,50m Butterfly,Long Course (50m),29.92,544,21 Jul 2022,Oswiecim,UKP Polonia Warszawa
+407,KRAWCZYK,Maja,2005,50m Butterfly,Long Course (50m),30.23,527,2 Jun 2022,Lublin,UKP Polonia Warszawa
+408,KRAWCZYK,Maja,2005,50m Butterfly,Long Course (50m),30.24,527,26 Feb 2022,Ostrowiec Swietorzyski,UKP Polonia Warszawa
+409,KRAWCZYK,Maja,2005,50m Butterfly,Long Course (50m),30.75,501,27 Feb 2021,Ostrowiec Swietokrzyski,UKP Polonia Warszawa
+410,KRAWCZYK,Maja,2005,50m Butterfly,Long Course (50m),31.64,460,28 Mar 2021,Lublin,UKP Polonia Warszawa
+411,KRAWCZYK,Maja,2005,50m Butterfly,Long Course (50m),52.77,99,31 May 2014,Warsaw,BUKS Warszawa
+412,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),29.71,552,9 Oct 2021,Oswiecim,UKP Polonia Warszawa
+413,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),29.91,541,17 Nov 2021,Raszyn,UKP Polonia Warszawa
+414,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),29.94,539,22 Oct 2022,Lodz,AZS AWF Warszawa
+415,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),29.95,539,12 Nov 2021,Wroclaw,UKP Polonia Warszawa
+416,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),30.39,516,27 Apr 2022,Warsaw,UKP Polonia Warszawa
+417,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),31.10,481,13 Nov 2020,Pruszkow,UKP Polonia Warszawa
+418,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),31.32,471,19 Oct 2019,Poznan,UKP Polonia Warszawa
+419,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),35.98,311,22 Dec 2016,Lublin,BUKS Warszawa
+420,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),37.25,280,19 May 2016,Warsaw,BUKS Warszawa
+421,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),44.36,166,20 Dec 2014,Warsaw,BUKS Warszawa
+422,KRAWCZYK,Maja,2005,50m Butterfly,Short Course (25m),48.00,131,25 Oct 2014,Mlawa,BUKS Warszawa
+423,KRAWCZYK,Maja,2005,100m Butterfly,Long Course (50m),1:08.85,523,9 Apr 2022,Lublin,UKP Polonia Warszawa
+424,KRAWCZYK,Maja,2005,100m Butterfly,Long Course (50m),1:09.70,504,27 Feb 2022,Ostrowiec Swietorzyski,UKP Polonia Warszawa
+425,KRAWCZYK,Maja,2005,100m Butterfly,Long Course (50m),1:09.87,500,27 Mar 2021,Lublin,UKP Polonia Warszawa
+426,KRAWCZYK,Maja,2005,100m Butterfly,Long Course (50m),1:11.24,472,27 Feb 2021,Ostrowiec Swietokrzyski,UKP Polonia Warszawa
+427,KRAWCZYK,Maja,2005,100m Butterfly,Long Course (50m),1:12.76,443,11 May 2019,Warsaw,UKS 48 Warszawa Srodmiescie
+428,KRAWCZYK,Maja,2005,100m Butterfly,Short Course (25m),1:06.15,562,9 Oct 2021,Oswiecim,UKP Polonia Warszawa
+429,KRAWCZYK,Maja,2005,100m Butterfly,Short Course (25m),1:09.45,486,17 Nov 2021,Raszyn,UKP Polonia Warszawa
+430,KRAWCZYK,Maja,2005,100m Butterfly,Short Course (25m),1:09.77,479,16 Apr 2021,Warsaw,UKP Polonia Warszawa
+431,KRAWCZYK,Maja,2005,100m Butterfly,Short Course (25m),1:11.89,438,6 Mar 2020,Warsaw,UKP Polonia Warszawa
+432,KRAWCZYK,Maja,2005,100m Butterfly,Short Course (25m),1:13.48,410,26 Apr 2022,Warsaw,UKP Polonia Warszawa
+433,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:10.07,524,11 Nov 2021,Wroclaw,UKP Polonia Warszawa
+434,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:10.94,505,8 Dec 2019,Ostrowiec Sw,UKP Polonia Warszawa
+435,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:12.23,478,16 Oct 2020,Wroclaw,UKP Polonia Warszawa
+436,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:12.35,476,10 Nov 2019,Lodz,UKP Polonia Warszawa
+437,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:12.37,476,22 Apr 2018,Mlawa,BUKS Warszawa
+438,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:13.86,447,10 Apr 2018,Warsaw,BUKS Warszawa
+439,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:14.02,444,29 Feb 2020,Kozienice,UKP Polonia Warszawa
+440,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:14.61,434,6 Nov 2018,Warsaw,BUKS Warszawa
+441,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:15.54,418,19 Nov 2017,Mlawa,BUKS Warszawa
+442,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:15.87,413,14 Nov 2017,Warsaw,BUKS Warszawa
+443,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:18.98,366,31 May 2017,Warsaw,BUKS Warszawa
+444,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:18.98,366,20 Oct 2016,Warsaw,BUKS Warszawa
+445,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:20.09,351,4 Feb 2017,Warsaw,BUKS Warszawa
+446,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:20.65,344,17 Dec 2016,Warsaw,BUKS Warszawa
+447,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:20.94,340,15 May 2016,Warsaw,BUKS Warszawa
+448,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:21.43,334,17 Nov 2016,Warsaw,BUKS Warszawa
+449,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:23.21,313,22 Mar 2016,Warsaw,BUKS Warszawa
+450,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:27.07,273,7 Nov 2015,Gizycko,0
+451,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:28.27,262,22 Oct 2015,Warsaw,0
+452,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:31.93,232,24 May 2015,Ciechanow,0
+453,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:32.26,229,14 Feb 2015,Kielce,0
+454,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:32.33,229,4 Mar 2015,Warsaw,0
+455,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:32.82,225,22 Apr 2015,Lomianki,0
+456,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:36.58,200,25 Oct 2014,Mlawa,0
+457,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:39.13,185,9 Apr 2014,Warsaw,0
+458,KRAWCZYK,Maja,2005,100m Medley,Short Course (25m),1:40.93,175,13 Mar 2014,Warsaw,0
